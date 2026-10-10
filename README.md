@@ -1,8 +1,8 @@
-# 🛡️ Building a Professional SOC Home Lab: Wazuh SIEM & Threat Detection
+﻿# 🛡️ Building a Professional SOC Home Lab: Wazuh SIEM & Threat Detection
 
 ![SOC Banner](assets/images/banner.png)
 
-## 🎯 Project Overview
+## 📋 Project Overview
 This project documents the end-to-end architecture and deployment of a **Security Operations Center (SOC) home lab**. The primary objective was to establish a centralized monitoring ecosystem capable of detecting, analyzing, and automatically responding to security threats. This lab simulates a realistic corporate environment encompassing a SIEM manager, an attacker node, and a hardened Windows endpoint.
 
 **Key Skills Demonstrated:** SIEM Engineering, Log Aggregation, Endpoint Detection & Response (EDR), Automated Incident Response, and System Hardening.
@@ -53,7 +53,7 @@ Progressed the lab from passive "Alerting" to active "Protecting" by configuring
 - **Infrastructure Troubleshooting as a Security Skill**: Resolving Hyper-V and VirtualBox "Critical Errors" provided deep insights into host-level virtualization security and resource allocation.
 - **Telemetry is King**: A SIEM is only as powerful as the data it parses. Deploying Sysmon proved essential for tracing the *actual* execution chain of processes, rather than just the generic Windows audit logs.
 
-## 🖼️ Technical Gallery (The Journey)
+## 📸 Technical Gallery (The Journey)
 
 Below is a collection of captures showcasing the evolution of the lab, from initial connectivity tests to full-scale attack simulation and autonomous defense.
 
